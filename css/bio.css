@@ -1,0 +1,33 @@
+.bio_container{
+    position: absolute;
+    background-size: cover;
+    overflow: auto;  
+    width: 70vw;
+    background-color: #fff
+}
+.biography-img{
+    display: flex;
+    margin-right:10px;    
+    width: 26vw;
+    height: 63vh;
+}
+.pic {
+    float: left; 
+   }
+.biography-text{
+    display: flex;
+   font-size: 20px;
+   font-family: 'Neucha', cursive;
+   text-align: center;
+}
+.close-bio{
+    background:none;
+    outline: none;
+    float: right;
+    margin: 10px;
+    border:2px solid #880000
+}
+.close-bio:active{
+    background-color: #880000;
+    color:#fff;
+}

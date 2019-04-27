@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>LthMVj</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/playerlist.css">
+    <link rel="stylesheet" href="css/genres.css">
+    <link rel="stylesheet" href="css/player.css">
+    <link rel="stylesheet" href="css/bio.css">
+</head>
+<body>
+    <div id="preloader">
+        <div id="cont">
+            <div class="round"></div>
+            <div class="round"></div>
+            <div class="round"></div>
+            <div class="round"></div>
+        </div>
+        <div id="loading">Loading</div>
+    </div>
+    <div class="wrapper">
+        <nav class="nav d-f">
+            <button class="genres-btn btn_nav">Musical Genre</button>
+            <span class="nav__header">Welcome to LthMVj! The Best  music platform in the world!</span>
+            <i class="nav__icon"></i>
+            <span class="nav__name"></span>
+            <button class="nav__out btn_nav">Go Out</button>
+        </nav>
+        <div class="contain d-f">
+            <h1 class="contain__header">Welcome to LthMVj</h1>
+            <div class="block-input">
+                <input class="contain__input" id="input_login" type="text" placeholder="Enter you Login">
+            </div>
+        </div>
+        <section class="content">
+            <div class="block-menu-player">
+                <article class="content-menu">
+                    <div class="bio_container">
+                        <div class="pic">
+                            <img class="biography-img" src="#" alt="song-name">
+                        </div>
+                        <button class="close-bio">Скрыть</button>
+                        <span class="biography-text">
+                        </span>
+
+                    </div>
+                    <div id="content_equalizer">
+                        <canvas id="canvas"></canvas>
+                    </div>
+                    <div id="genre_container" class="genre_container">
+                        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                            <ol class="carousel-indicators">
+                                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                                <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                                <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+                                <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+                            </ol>
+                            <div id="for_genres" class="carousel-inner">
+                                <script id="genre__tpl" type="text/template">
+                                {{#genres}}
+                                    <div class="{{class}}">
+                                        <div class="img">
+                                            <span class="genre_name"> {{genre}}</span>
+                                        </div>
+                                    </div>
+                                {{/genres}}
+                            </script>
+                            </div>
+                            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button"
+                                data-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            </a>
+                            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button"
+                                data-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            </a>
+                        </div>
+                    </div>
+                </article>
+                <aside class="player">
+                    <div id="player" class="player-container">
+                        <audio id="myAudio" src="#">
+                        </audio>
+                        <button class="player-btn__back player-btn" id="back" disabled="disabled"></button>
+                        <button class="player-btn__play player-btn" id="play"></button>
+                        <button class="player-btn__pause player-btn" id="pause"></button>
+                        <button class="player-btn__forward player-btn" id="forward"></button>
+                        <div class="info_Player">
+                            <div class="progress">
+                                <div class="progress-bar"></div>
+                                    <div class="progress-bar-fill"></div>
+                            </div>
+                            <div class="time_And_Volume">
+                                <div class="time"> 0:00
+                                </div>
+                                <div class="volume">
+                                    <input type="range" id="start" name="volume" step="0.1" value="1" min="0" max="1">
+                                    <label for="volume">Volume</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </aside>
+            </div>
+            <aside class="playlist">
+                <div class="playlist-header">
+                    <img class="playlist-song-img" src="#" alt="song-name">
+                    <div class="playlist-info">
+                        <h3 class="playlist-info__track"></h3>
+                        <div class="playlist-info__author">рейтинг:<span class="rating"></span></div>
+                    </div>
+                </div>
+                <div class='sort'>Sorting 
+                    <select class='sortOf'>
+                        <option class="sortOf__item" value="0" selected>Bands(A-z)</option>
+                        <option class="sortOf__item"  value="1">Bands(Z-a)</option>
+                        <option class="sortOf__item" value="2">shuffle</option>
+                    </select>
+                </div>
+                <div class="playlist-container">
+                    <ul class="playlist-songs" id="for_song-container">
+
+                    </ul>
+                </div>
+            </aside>
+        </section>
+    </div>
+    <script id="song__tpl" type="text/template">
+        {{#singers}}
+            <li class="song">
+                <span class="playlist-songs-name" data-value="{{src}}">{{title}}-{{name}}</span>
+            </li>
+        {{/singers}}
+    </script>
+    <script src="libs/jquery-3.3.1.min.js"></script>
+    <script src="libs/bootstrap.min.js"></script>
+    <script src="libs/mustache.js"></script>
+    <script src="libs/howler.min.js"></script>
+    <script src="scripts/script.js"></script>
+</body>
+
+</html>

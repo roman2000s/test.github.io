@@ -1,0 +1,51 @@
+{
+  "singers": [
+    {
+      "name": "Imagine Dragons",
+      "title": "Believer",
+      "src": "./music/imagine_dragons_believer.mp3"
+    },
+    {
+      "name": "Imagine Dragons",
+      "title": "Natural",
+      "src": "./music/imagine_dragons_natural.mp3"
+    },
+    {
+      "name": "Imagine Dragons",
+      "title": "Thunder",
+      "src": "./music/imagine_dragons_thunder.mp3"
+    },
+    {
+      "name": "Imagine Dragons",
+      "title": "Radioactive",
+      "src": "./music/imagine_dragons_radioactive.mp3"
+    },
+    {
+      "name": "Scorpions",
+      "title": "Send Me An Angel",
+      "src": "./music/scorpions_send_me_an_angel.mp3"
+    },
+    {
+      "name": "Scorpions",
+      "title": "Still Loving You",
+      "src": "./music/scorpions_still_loving_you.mp3"
+    },
+    {
+      "name": "Scorpions",
+      "title": "Why Does My Heart Feel So Bad?",
+      "src": "./music/moby_why_does_my_heart_feel_so_bad.mp3"
+    },
+    {
+      "name": "Scorpions",
+      "title": "Humanity",
+      "src": "./music/scorpions_humanity.mp3"
+    }
+  ],
+  "img":{
+    "Scorpions":"img/scorpions.webp",
+    "Imagine Dragons":"img/imagine_dragons.webp"
+},
+"bio":{"scorpions":"Scorpions — немецкая англоязычная рок-группа. Была основана в 1965 в Ганновере. Состав группы: Клаус Майне, Рудольф Шенкер, Маттиас Ябс, Микки Ди, Павел Мончивода. На международной сцене группа появилась в 1972 году, когда выпустила свой первый альбом под названием Lonesome Crow.",
+"imagine_dragons":"Imagine Dragons — инди-рок-группа. Была основана в Лас-Вегасе в 2008 году. Состав группы: Дэн Рейнольдс, Бэн МакКи, Уэйн Сермон, Дэн Платцман. 1 февраля выпустили свой первый мини-альбом Imagine Dragons."
+  }
+}

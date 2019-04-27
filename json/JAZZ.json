@@ -1,0 +1,53 @@
+
+{
+  "singers": [
+    {
+      "name": "Louis Armstrong",
+      "title": "Wonderful World",
+      "src": "./music/louis_armstrong_wonderful_world.mp3"
+    },
+    {
+      "name": "Louis Armstrong",
+      "title": "Go Down Moses",
+       "src": "./music/louis_armstrong_go_down_moses.mp3"
+    },
+    {
+      "name": "Louis Armstrong",
+      "title": "La Vie En Rose",
+       "src": "./music/louis_armstrong_la_vie_en_rose.mp3"
+    },
+    {
+      "name": "Louis Armstrong",
+      "title": "Hello Dolly!",
+          "src": "./music/louis_armstrong_hello_dolly.mp3"
+    },
+    {
+        "title": "Jingle bells",
+        "name":"Frank Sinatra",
+        "src": "music/frank_sinatra_jingle_bells.mp3"
+    },
+    {
+        "title": "Let it snow",
+        "name":"Frank Sinatra",
+        "src": "music/frank_sinatra_let_it_snow.mp3"
+    },
+    {
+        "title": "My way",
+        "name":"Frank Sinatra",
+        "src": "music/frank_sinatra_my_way.mp3"
+    },
+    {
+        "title": "Strangers in the night",
+        "name":"Frank Sinatra",
+        "src": "music/frank_sinatra_strangers_in_the_night.mp3"
+    }
+  ],
+  "img":{
+    "Louis Armstrong":"img/louis_armstrong.webp",
+    "Frank Sinatra":"img/frank_sinatra.webp"
+},
+"bio":{
+    "louis_armstrong":"Louis Armstrong — американский джазовый трубач. Оказал наибольшее влияние на развитие джаза и сделал многое для его популяризации во всем мире. Армстронг рано начал петь в небольшом уличном вокальном ансамбле, играл на барабанах и за несколько лет натренировал свой слух. Первое музыкальное образование он получил в исправительном лагере-интернате «Уэйф’с Хоум» для цветных подростков в 1913 г.",
+    "frank_sinatra":"Frank Sinatra — американский певец. В XX веке Синатра стал легендой не только музыкального мира, но и каждого аспекта американской культуры. С ранних лет его интересовала музыка, и с 13 лет он подрабатывал с помощью укулеле, маленькой музыкальной установки, и мегафона, в барах своего города."
+}
+}

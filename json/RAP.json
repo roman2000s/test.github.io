@@ -1,0 +1,53 @@
+{
+  "singers":[
+  {
+      "title": "Lose Yourself",
+      "name":"Eminem",
+      "src": "music/eminem_lose_yourself.mp3"
+  },
+  {
+      "title": "Stan",
+      "name":"Eminem",
+      "src": "music/eminem_stan.mp3"
+  },
+  {
+      "title": "Not Afraid",
+      "name":"Eminem",
+      "src": "music/eminem_not_afraid.mp3"
+  },
+  {
+      "title": "Love The Way You Lie",
+      "name":"Eminem",
+      "src": "music/eminem_love_the_way_you_lie.mp3"
+  },
+ 
+  {
+      "title": "Ayo technology",
+      "name":"50 cents",
+      "src": "music/50_cent_ayo_technology.mp3"
+  },
+  {
+      "title": "Сandy shop",
+      "name":"50 cents",
+      "src": "music/50_cent_candy_shop.mp3"
+  },
+  {
+      "title": "In da club",
+      "name":"50 cents",
+      "src": "music/50_cent_in_da_club.mp3"
+  },
+  {
+      "title": "p i m p",
+      "name":"50 cents",
+      "src": "music/50_cent_p_i_m_p.mp3"
+  }
+  ],
+  "img":{
+      "Eminem":"img/eminem.webp",
+      "50 cents":"img/50_cent.webp"
+  },
+  "bio":{
+      "eminem":"Eminem — американский рэпер. В 1992 году Эминем вместе со своими друзьями детства сформировал группу Soul Intent. Выпустил дебютный альбом Infinite в 1996 году. Eminem достиг огромной популярности в 1999-м с релизом дебютного альбома The Slim Shady LP на мейджор-лейбле.",
+      "50_cent":"50 Cent — американский рэпер. 50 Cent начал читать рэп в подвале у друга. В 1996 году друг знакомит его с Jam Master Jay из Run DMC, который организовал свой собственный лейбл Jam Master Jay Records. Популярность 50 Cent’а начала расти после успешного сингла «How to Rob», который он написал за полчаса, пока ехал в машине на студию."
+    }
+}

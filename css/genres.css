@@ -1,0 +1,34 @@
+.genre_container{
+
+    background-image:url(../img/hardrock.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .7;
+}
+.img{
+    display: flex;
+    width: 70vw;
+    height: 63vh;
+    text-align: center;
+}
+.genre_name{
+    position: absolute;
+    line-height: 63vh;
+    width: 70vw;
+    height: 63vh;
+    color:#FFF;
+    font-size:200px; 
+    font-family: 'Dokdo', cursive;
+    transition: background-color, .5s linear;
+}
+.genre_name:hover{
+    cursor:pointer;
+    background-color:rgba(0,0,0,.7);
+}
+.carousel-indicators .active{
+    width: 30px;
+    height: 5px;
+}
+.carousel-indicators{
+    width: 49vw;
+}

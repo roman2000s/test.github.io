@@ -1,0 +1,52 @@
+{
+    "singers":[
+    {
+        "title": "Bagatelle a minor",
+        "name":"Ludwig Van Beethoven",
+        "src": "music/ludwig_van_beethoven_bagatelle_a_minor.mp3"
+    },
+    {
+        "title": "Beethoven 5 secrets",
+        "name":"Ludwig Van Beethoven",
+        "src": "music/ludwig_van_beethoven_beethoven_5_secrets.mp3"
+    },
+    {
+        "title": "Moonlight sonata",
+        "name":"Ludwig Van Beethoven",
+        "src": "music/ludwig_van_beethoven_moonlight_sonata.mp3"
+    },
+    {
+        "title": "Ode to joy",
+        "name":"Ludwig Van Beethoven",
+        "src": "music/ludwig_van_beethoven_ode_to_joy.mp3"
+    },
+    {
+        "title": "Bach street prelude",
+        "name":"Johann Bach",
+        "src": "music/johann_bach_bach_street_prelude.mp3"
+    },
+    {
+        "title": "Suite in d major",
+        "name":"Johann Bach",
+        "src": "music/johann_bach_suite_in_d_major.mp3"
+    },
+    {
+        "title": "The cello song",
+        "name":"Johann Bach",
+        "src": "music/johann_bach_the_cello_song.mp3"
+    },
+    {
+        "title": "Toccata et fugue",
+        "name":"Johann Bach",
+        "src": "music/johann_bach_toccata_et_fugue.mp3"
+    }
+    ],
+    "img":{
+        "Johann Bach":"img/johann_bach.webp",
+        "Ludwig Van Beethoven":"img/ludwig_van_beethoven.webp"
+    },
+    "bio":{
+        "johann_bach":"Иоганн Себастьян Бах – замечательнейший из членов знаменитой музыкальной семьи Бахов и один из величайших композиторов всех времён и народов. Он родился 31 марта 1685 года в Эйзенахе, а умер 28 июля 1750 в Лейпциге.",
+        "ludwig_van_beethoven":"Изъято по обращению правообладателя"
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "genres": [
+    { "genre": "ROCK", "class": "carousel-item active" },
+    { "genre": "RAP", "class": "carousel-item" },
+    { "genre": "ELECTRO", "class": "carousel-item" },
+    { "genre": "JAZZ", "class": "carousel-item" },
+    { "genre": "CLASSIC", "class": "carousel-item" },
+    { "genre": "ALL", "class": "carousel-item" }
+  ]
+}

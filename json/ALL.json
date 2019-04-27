@@ -1,0 +1,228 @@
+{
+    "singers":[
+    {
+        "title": "Lose Yourself",
+        "name":"Eminem",
+        "src": "music/eminem_lose_yourself.mp3"
+    },
+    {
+        "title": "Stan",
+        "name":"Eminem",
+        "src": "music/eminem_stan.mp3"
+    },
+    {
+        "title": "Not Afraid",
+        "name":"Eminem",
+        "src": "music/eminem_not_afraid.mp3"
+    },
+    {
+        "title": "Love The Way You Lie",
+        "name":"Eminem",
+        "src": "music/eminem_love_the_way_you_lie.mp3"
+    },
+    {
+        "title": "Humanity",
+        "name":"Scorpions",
+        "src": "music/scorpions_humanity.mp3"
+    },
+    {
+        "title": "Send me an ange",
+        "name":"Scorpions",
+        "src": "music/scorpions_send_me_an_angel.mp3"
+    },
+    {
+        "title": "Still loving you",
+        "name":"Scorpions",
+        "src": "music/scorpions_still_loving_you.mp3"
+    },
+    {
+        "title": "Wind of change",
+        "name":"Scorpions",
+        "src": "music/scorpions_wind_of_change.mp3"
+    },
+    {
+        "title": "Why does my heart feel so bad",
+        "name":"Moby",
+        "src": "music/moby_why_does_my_heart_feel_so_bad.mp3"
+    },
+    {
+        "title": "Natural blues",
+        "name":"Moby",
+        "src": "music/moby_natural_blues.mp3"
+    },
+    {
+        "title": "Lift me up",
+        "name":"Moby",
+        "src": "music/moby_lift_me_up.mp3"
+    },
+    {
+        "title": "Flower",
+        "name":"Moby",
+        "src": "music/moby_flower.mp3"
+    },
+    {
+        "title": "Bagatelle a minor",
+        "name":"Ludwig Van Beethoven",
+        "src": "music/ludwig_van_beethoven_bagatelle_a_minor.mp3"
+    },
+    {
+        "title": "Beethoven 5 secrets",
+        "name":"Ludwig Van Beethoven",
+        "src": "music/ludwig_van_beethoven_beethoven_5_secrets.mp3"
+    },
+    {
+        "title": "Moonlight sonata",
+        "name":"Ludwig Van Beethoven",
+        "src": "music/ludwig_van_beethoven_moonlight_sonata.mp3"
+    },
+    {
+        "title": "Ode to joy",
+        "name":"Ludwig Van Beethoven",
+        "src": "music/ludwig_van_beethoven_ode_to_joy.mp3"
+    },
+    {
+        "title": "Breathe",
+        "name":"The prodigy",
+        "src": "music/the_prodigy_breathe.mp3"
+    },
+    {
+        "title": "Omen",
+        "name":"The prodigy",
+        "src": "music/the_prodigy_omen.mp3"
+    },
+    {
+        "title": "Smack my bitch up",
+        "name":"The prodigy",
+        "src": "music/the_prodigy_smack_my_bitch_up.mp3"
+    },
+    {
+        "title": "Voodoo people",
+        "name":"The prodigy",
+        "src": "music/the_prodigy_voodoo_people.mp3"
+    },
+    {
+        "title": "Ayo technology",
+        "name":"50 cents",
+        "src": "music/50_cent_ayo_technology.mp3"
+    },
+    {
+        "title": "Сandy shop",
+        "name":"50 cents",
+        "src": "music/50_cent_candy_shop.mp3"
+    },
+    {
+        "title": "In da club",
+        "name":"50 cents",
+        "src": "music/50_cent_in_da_club.mp3"
+    },
+    {
+        "title": "p i m p",
+        "name":"50 cents",
+        "src": "music/50_cent_p_i_m_p.mp3"
+    },
+    {
+        "title": "Believer",
+        "name":"Imagine Dragons",
+        "src": "music/imagine_dragons_believer.mp3"
+    },
+    {
+        "title": "Natural",
+        "name":"Imagine Dragons",
+        "src": "music/imagine_dragons_natural.mp3"
+    },
+    {
+        "title": "Radioactive",
+        "name":"Imagine Dragons",
+        "src": "music/imagine_dragons_radioactive.mp3"
+    },
+    {
+        "title": "Thunder",
+        "name":"Imagine Dragons",
+        "src": "music/imagine_dragons_thunder.mp3"
+    },
+    {
+        "title": "Bach street prelude",
+        "name":"Johann Bach",
+        "src": "music/johann_bach_bach_street_prelude.mp3"
+    },
+    {
+        "title": "Suite in d major",
+        "name":"Johann Bach",
+        "src": "music/johann_bach_suite_in_d_major.mp3"
+    },
+    {
+        "title": "The cello song",
+        "name":"Johann Bach",
+        "src": "music/johann_bach_the_cello_song.mp3"
+    },
+    {
+        "title": "Toccata et fugue",
+        "name":"Johann Bach",
+        "src": "music/johann_bach_toccata_et_fugue.mp3"
+    },
+    {
+        "title": "Go down moses",
+        "name":"Louis Armstrong",
+        "src": "music/louis_armstrong_go_down_moses.mp3"
+    },
+    {
+        "title": "Hello dolly",
+        "name":"Louis Armstrong",
+        "src": "music/louis_armstrong_hello_dolly.mp3"
+    },
+    {
+        "title": "La vie en rose",
+        "name":"Louis Armstrong",
+        "src": "music/louis_armstrong_la_vie_en_rose.mp3"
+    },
+    {
+        "title": "Wonderful world",
+        "name":"Louis Armstrong",
+        "src": "music/louis_armstrong_wonderful_world.mp3"
+    },
+    {
+        "title": "Jingle bells",
+        "name":"Frank Sinatra",
+        "src": "music/frank_sinatra_jingle_bells.mp3"
+    },
+    {
+        "title": "Let it snow",
+        "name":"Frank Sinatra",
+        "src": "music/frank_sinatra_let_it_snow.mp3"
+    },
+    {
+        "title": "My way",
+        "name":"Frank Sinatra",
+        "src": "music/frank_sinatra_my_way.mp3"
+    },
+    {
+        "title": "Strangers in the night",
+        "name":"Frank Sinatra",
+        "src": "music/frank_sinatra_strangers_in_the_night.mp3"
+    }
+    ],
+    "img":{
+        "Eminem":"img/eminem.webp",
+        "Scorpions":"img/scorpions.webp",
+        "The prodigy":"img/the_prodigy.webp",
+        "Moby":"img/moby.webp",
+        "50 cents":"img/50_cent.webp",
+        "Imagine Dragons":"img/imagine_dragons.webp",
+        "Johann Bach":"img/johann_bach.webp",
+        "Ludwig Van Beethoven":"img/ludwig_van_beethoven.webp",
+        "Louis Armstrong":"img/louis_armstrong.webp",
+        "Frank Sinatra":"img/frank_sinatra.webp"
+    },
+    "bio":{
+        "eminem":"Eminem — американский рэпер. В 1992 году Эминем вместе со своими друзьями детства сформировал группу Soul Intent. Выпустил дебютный альбом Infinite в 1996 году. Eminem достиг огромной популярности в 1999-м с релизом дебютного альбома The Slim Shady LP на мейджор-лейбле.",
+        "scorpions":"Scorpions — немецкая англоязычная рок-группа. Была основана в 1965 в Ганновере. Состав группы: Клаус Майне, Рудольф Шенкер, Маттиас Ябс, Микки Ди, Павел Мончивода. На международной сцене группа появилась в 1972 году, когда выпустила свой первый альбом под названием Lonesome Crow.",
+        "the_prodigy":"The Prodigy — британский музыкальный коллектив. Группа образована в 1990 году. Состав группы: Лиам Хоулетт, Максим Реалити. В феврале 1991 года выходит первый релиз The Prodigy, мини-альбом What Evil Lurks, состоявший преимущественно из ранних работ Лиама Хоулетта.",
+        "moby":"Moby — американский диджей, певец, композитор, мультиинструменталист и исполнитель. Родился в Нью-Йорке, но вырос в Дэриене, Коннектикут. Первый альбом — в стиле техно — выпустил в 1992 году (Moby).",
+        "50_cent":"50 Cent — американский рэпер. 50 Cent начал читать рэп в подвале у друга. В 1996 году друг знакомит его с Jam Master Jay из Run DMC, который организовал свой собственный лейбл Jam Master Jay Records. Популярность 50 Cent’а начала расти после успешного сингла «How to Rob», который он написал за полчаса, пока ехал в машине на студию.",
+        "imagine_dragons":"Imagine Dragons — инди-рок-группа. Была основана в Лас-Вегасе в 2008 году. Состав группы: Дэн Рейнольдс, Бэн МакКи, Уэйн Сермон, Дэн Платцман. 1 февраля выпустили свой первый мини-альбом Imagine Dragons.",
+        "johann_bach":"Иоганн Себастьян Бах – замечательнейший из членов знаменитой музыкальной семьи Бахов и один из величайших композиторов всех времён и народов. Он родился 31 марта 1685 года в Эйзенахе, а умер 28 июля 1750 в Лейпциге.",
+        "ludwig_van_beethoven":"Изъято по обращению правообладателя",
+        "louis_armstrong":"Louis Armstrong — американский джазовый трубач. Оказал наибольшее влияние на развитие джаза и сделал многое для его популяризации во всем мире. Армстронг рано начал петь в небольшом уличном вокальном ансамбле, играл на барабанах и за несколько лет натренировал свой слух. Первое музыкальное образование он получил в исправительном лагере-интернате «Уэйф’с Хоум» для цветных подростков в 1913 г.",
+        "frank_sinatra":"Frank Sinatra — американский певец. В XX веке Синатра стал легендой не только музыкального мира, но и каждого аспекта американской культуры. С ранних лет его интересовала музыка, и с 13 лет он подрабатывал с помощью укулеле, маленькой музыкальной установки, и мегафона, в барах своего города."
+    }
+}
